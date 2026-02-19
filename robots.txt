@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dfordavidai.github.io/seo-best-seo-service-in-niegeria/sitemap.xml
